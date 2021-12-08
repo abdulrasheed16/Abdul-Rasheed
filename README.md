@@ -13,6 +13,7 @@
 - 📫 How to reach me **abdulrasheed21503@gmail.com**
 
 - ⚡ Fun fact **Talk is cheap, show me the code**
+- SKILLS
 
 <p align="left">
 </p>

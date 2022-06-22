@@ -3,7 +3,6 @@
 
 ![Green Simple Professional LinkedIn Banner](https://user-images.githubusercontent.com/93369776/175012624-2c58371b-cb47-4d27-9101-d1f85e651f3c.png)
 
- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rasheed1616" alt="rasheed1616" /></a> </p>
 
 - 🔭 I’m currently working on **C++**
 
@@ -22,7 +21,7 @@
 </p>
 
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
-
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rasheed1616" alt="rasheed1616" /></a> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rasheed1616&show_icons=true&locale=en" alt="rasheed1616" /></p>
 
 <p align="left">

@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Abdul Rasheed</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rasheed1616" alt="rasheed1616" /></a> </p>
 
+<iframe src="https://giphy.com/embed/WSBeyxvC1jH496xQGA" width="480" height="276" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/code-programmer-learn-to-WSBeyxvC1jH496xQGA">via GIPHY</a></p>
+
 - 🔭 I’m currently working on **C++**
 
 - 🌱 I’m currently learning **Web Development | Web Design**

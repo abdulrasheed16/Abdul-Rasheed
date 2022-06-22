@@ -1,11 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Abdul Rasheed</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rasheed1616" alt="rasheed1616" /></a> </p>
-
 
 ![Green Simple Professional LinkedIn Banner](https://user-images.githubusercontent.com/93369776/175012624-2c58371b-cb47-4d27-9101-d1f85e651f3c.png)
 
- 
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rasheed1616" alt="rasheed1616" /></a> </p>
 
 - 🔭 I’m currently working on **C++**
 

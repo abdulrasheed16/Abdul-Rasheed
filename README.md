@@ -1,8 +1,8 @@
 
-<h1 align="center">Hi 👋, I'm Abdul Rasheed</h1>
 
 ![Green Simple Professional LinkedIn Banner](https://user-images.githubusercontent.com/93369776/175012624-2c58371b-cb47-4d27-9101-d1f85e651f3c.png)
 
+<h1 align="center">Hi there 👋, This is Abdul Rasheed</h1>
 
 - 🔭 I’m currently working on **C++**
 

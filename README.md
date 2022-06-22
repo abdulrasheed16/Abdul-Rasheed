@@ -3,13 +3,15 @@
 ![Green Simple Professional LinkedIn Banner](https://user-images.githubusercontent.com/93369776/175012624-2c58371b-cb47-4d27-9101-d1f85e651f3c.png)
 
 
-<h1> Responsiblities as Web Developer </h1>
+<h1> Responsiblities as Web Developer: </h1>
 
 - **Build and optimize a secure web page for evolving business needs.**
 - **Ensure the technical feasibility of UI/UX designs.**
 - **Optimize application for maximum speed and scalability.**
 - **Creating products that are user-friendly, effective and appealing.**
 - **Creating and manipulating responsive desings** 
+
+<h2> More about me </h2>
 
 - 🔭 I’m currently working on **Front-End Web Development**
 

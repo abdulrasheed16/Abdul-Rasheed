@@ -5,6 +5,12 @@
 
 <h1> Responsiblities as Web Developer </h1>
 
+- **Build and optimize a secure web page for evolving business needs.**
+- **Ensure the technical feasibility of UI/UX designs.**
+- **Optimize application for maximum speed and scalability.**
+- **Creating products that are user-friendly, effective and appealing.**
+- **Creating and manipulating responsive desings** 
+
 - 🔭 I’m currently working on **Front-End Web Development**
 
 - 🌱 I’m currently learning **Full Stack web develoment**

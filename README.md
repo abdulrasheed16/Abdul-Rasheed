@@ -7,7 +7,7 @@
 
 - **Build and optimize a secure web page for evolving business needs.**
 - **Ensure the technical feasibility of UI/UX designs.**
-<img align="right" width="100" height="100" src="![web-gf7dbe1c9d_640](https://user-images.githubusercontent.com/93369776/175019633-f2de5f01-0000-4c90-bb49-a81520687ee1.jpg)
+<img align="right" width="50" height="50" src="![web-gf7dbe1c9d_640](https://user-images.githubusercontent.com/93369776/175019633-f2de5f01-0000-4c90-bb49-a81520687ee1.jpg)
 "
 - **Optimize application for maximum speed and scalability.**
 - **Creating products that are user-friendly, effective and appealing.**

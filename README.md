@@ -11,7 +11,7 @@
 - **Creating products that are user-friendly, effective and appealing.**
 - **Creating and manipulating responsive desings** 
 
-<h2> More about me </h2>
+<h2> More about me.. </h2>
 
 - 🔭 I’m currently working on **Front-End Web Development**
 

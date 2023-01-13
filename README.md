@@ -1,6 +1,7 @@
 
 
-![Green Simple Professional LinkedIn Banner](https://user-images.githubusercontent.com/93369776/175012624-2c58371b-cb47-4d27-9101-d1f85e651f3c.png)
+
+![Black and  White Gradient Personal LinkedIn Banner (2)](https://user-images.githubusercontent.com/93369776/212265049-c1602370-1fdc-4e9e-84a4-1740127adff9.png)
 
 
 <h1> Responsiblities as Web Developer: </h1>
